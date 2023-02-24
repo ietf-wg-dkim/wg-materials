@@ -8,11 +8,9 @@ Chairs:
 
 Area Director: Murray Kucherawy
 
-Mailing List: http://www.ietf.org/mailman/listinfo/dkim
+Mailing List: http://www.ietf.org/mailman/listinfo/ietf-dkim
 
-Contributing:  https://github.com/ietg-wg-dkim/wg-materials/blob/master/CONTRIBUTING.md
-
-Document Status: https://github.com/ietg-wg-dkim/wg-materials/blob/master/dnsop-document-status.md
+Contributing:  https://github.com/ietf-wg-dkim/wg-materials/blob/main/CONTRIBUTING.md
 
 # Note Well
 
